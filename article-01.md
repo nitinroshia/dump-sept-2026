@@ -1,4 +1,5 @@
-***Saudi Arabia’s Key Oil Pipeline Starts Exports After Repairs***
+*** Saudi Arabia’s Key Oil Pipeline Starts Exports After Repairs ***
+
 Saudi Arabia has started exporting oil using a key cross-country pipeline after the link was repaired following drone strikes earlier this month, a person with direct knowledge of the matter said.
 
 Flows through the line have reached about 3.5 million barrels a day, another person said. Both asked not to be named because the information isn’t public. The pipeline has a total capacity of about 7 million a day, with about 5 million typically earmarked for exports.
