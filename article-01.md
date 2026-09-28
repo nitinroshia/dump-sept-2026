@@ -1,4 +1,4 @@
-*** Saudi Arabia’s Key Oil Pipeline Starts Exports After Repairs ***
+# Saudi Arabia’s Key Oil Pipeline Starts Exports After Repairs
 
 Saudi Arabia has started exporting oil using a key cross-country pipeline after the link was repaired following drone strikes earlier this month, a person with direct knowledge of the matter said.
 
