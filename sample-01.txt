@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "headline": "Anthropic's IPO could top $2 trillion after a $42B 2025 loss",
+    "captions": "$518B spending plan",
+    "flags": ["US"]
+  },
+  "post_creation": {
+    "headline": "Anthropic's IPO prospectus shows $42 billion 2025 loss, $518 billion in planned spending",
+    "post_text": "Roughly $34 billion of the loss was an accounting charge tied to financing that could eventually turn into shares. Revenue grew 12-fold to nearly $4.6 billion, but nearly a quarter came from two customers. Cash and short-term investments totaled $20.28 billion as of December 31.",
+    "hashtags": ["#Anthropic", "#IPO", "#AI", "#Technology"]
+  },
+  "social_media": {
+    "twitter": {
+      "headline": "Anthropic lost $42 billion in 2025 and plans to spend $518 billion on infrastructure",
+      "post_text": "Revenue grew 12-fold to nearly $4.6 billion. The loss included a roughly $34 billion accounting charge. The IPO could value the company at more than $2 trillion.",
+      "hashtags": ["#Anthropic", "#IPO"]
+    },
+    "instagram": {
+      "headline": "Anthropic's IPO could top $2 trillion",
+      "post_text": "Anthropic lost $42 billion in 2025 and plans to spend $518 billion on cloud, computing and infrastructure in coming years.\n\nRevenue grew 12-fold to nearly $4.6 billion. Roughly $34 billion of the loss was an accounting charge, and nearly a quarter of revenue came from two customers.\n\nIts own estimated valuation was $965 billion in May. Many of its largest clients aren't locked into long-term contracts.\n\nSend this to someone who follows AI stocks.",
+      "hashtags": ["#Anthropic", "#IPO", "#AI", "#Business"]
+    },
+    "linkedin": {
+      "headline": "Anthropic's prospectus: $42 billion 2025 net loss against 12-fold revenue growth",
+      "post_text": "Anthropic's IPO prospectus shows revenue up 12-fold in 2025 to nearly $4.6 billion, alongside plans to spend $518 billion on cloud, computing and infrastructure obligations. Analysts expect the first company to go public to set valuation benchmarks for the AI industry.\n\nThe 2025 net loss was $42 billion, including a roughly $34 billion accounting charge.\n\nRisk factors: nearly a quarter of revenue came from two customers, and many of its largest clients are not locked into long-term contracts.\n\nThe IPO could value Anthropic at more than $2 trillion.\n\nFor AI valuations, how much should contract lock-in count against growth?",
+      "hashtags": ["#Anthropic", "#IPO", "#AI", "#Technology"]
+    },
+    "tiktok": {
+      "headline": "Anthropic lost $42B in 2025. Its IPO could top $2T.",
+      "post_text": "Anthropic's IPO prospectus shows revenue up 12-fold to nearly $4.6 billion and $518 billion in planned spending. About $34 billion of its $42 billion 2025 loss was an accounting charge.\n\nSend this to someone who follows AI stocks.",
+      "hashtags": ["#AI", "#Anthropic", "#IPO"]
+    },
+    "youtube": {
+      "headline": "Anthropic IPO Prospectus: $42B Loss, $518B Spending Plans",
+      "post_text": "Anthropic's IPO prospectus shows a $42 billion net loss in 2025, 12-fold revenue growth and $518 billion in planned spending.\n\nThe 2025 net loss included a roughly $34 billion accounting charge tied to financing that could eventually turn into shares. Revenue grew 12-fold to nearly $4.6 billion.\n\nCompute and infrastructure spending was $7.33 billion in 2025, a threefold rise from 2024.\n\nNearly a quarter of revenue came from two customers, and many large clients are not locked into long-term contracts. The IPO could value Anthropic at more than $2 trillion and is likely to come after the November US midterms, Reuters previously reported.",
+      "hashtags": ["#Anthropic", "#IPO", "#AI", "#Business"]
+    },
+    "facebook": {
+      "headline": "Anthropic's IPO prospectus shows a $42 billion loss and $518 billion in planned spending",
+      "post_text": "Anthropic's IPO prospectus lays out a massive bet that AI will reshape the economy more than electricity or the internet did.\n\nRevenue grew 12-fold to nearly $4.6 billion in 2025. The net loss was $42 billion, including a roughly $34 billion accounting charge.\n\nAnthropic plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years.\n\nThe IPO could value it at more than $2 trillion. Send this to someone who follows AI stocks.",
+      "hashtags": ["#Anthropic", "#IPO", "#AI"]
+    },
+    "telegram": {
+      "headline": "Anthropic IPO prospectus: $518 billion in planned infrastructure spending",
+      "post_text": "📊 Anthropic's prospectus shows revenue up 12-fold to nearly $4.6 billion in 2025, alongside a $42 billion net loss.\n\n• Roughly $34 billion of the loss was an accounting charge tied to financing that could turn into shares\n• Nearly a quarter of revenue came from two customers\n• Cash and short-term investments totaled $20.28 billion as of December 31\n• The IPO could value it at more than $2 trillion",
+      "hashtags": ["#Anthropic", "#IPO", "#AI"]
+    }
+  }
+}
