@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "headline": "UK set for £4bn fuel tax windfall as diesel hits record £2",
+    "captions": "About £1.27bn extra VAT so far",
+    "flags": ["GB"]
+  },
+  "post_creation": {
+    "headline": "UK fuel price surge set to deliver government a £4bn tax windfall",
+    "post_text": "The UK government is set to gain a £4 billion tax windfall from higher petrol and diesel prices, putting Chancellor John Healey under pressure to announce relief for drivers at his upcoming budget. Petrol is almost £1.75 a liter, up 31% since the Middle East conflict began, while diesel is up 40% to a record £2, according to the RAC.",
+    "hashtags": ["#FuelPrices", "#Diesel", "#UKBudget", "#UKEconomy"]
+  },
+  "social_media": {
+    "twitter": {
+      "headline": "UK government set for £4bn fuel tax windfall as diesel hits record £2 a liter",
+      "post_text": "Extra VAT could reach £3.9bn over 12 months if drivers use as much fuel as in 2025-2026, by one estimate. Petrol is up 31% since the Middle East conflict began, the RAC says.",
+      "hashtags": ["#FuelPrices", "#UKBudget"]
+    },
+    "instagram": {
+      "headline": "Haulage group says diesel costs UK firms over £300 extra a week per vehicle",
+      "post_text": "UK diesel is up 40% to a record £2 a liter, and the government is set for a £4 billion tax windfall from fuel prices.\n\nPetrol is almost £1.75 a liter, up 31% since the Middle East conflict began, according to the RAC. Lobby groups want the chancellor to extend the fuel duty freeze into 2027.\n\nDuty is due to rise by 3 pence on Jan. 1 and by a further 2 pence on March 1.\n\nSend this to someone who drives for work.",
+      "hashtags": ["#FuelPrices", "#Diesel", "#UKEconomy", "#News"]
+    },
+    "linkedin": {
+      "headline": "UK fuel price surge lifts VAT receipts while haulage costs climb",
+      "post_text": "A £4 billion tax windfall from soaring petrol and diesel prices is adding pressure on UK Chancellor John Healey to announce relief for drivers at his upcoming budget.\n\nDiesel, which powers the transportation industry, is up 40% to a record £2 a liter, according to the RAC.\n\nThe Road Haulage Association says transport firms are paying over £300 extra a week per vehicle, or £130,000 more every month for fleets of 100 trucks. Managing director Richard Smith says firms that can't pass on costs struggle.\n\nLobby groups want the fuel duty freeze extended into 2027, at a cost of over £2 billion, while others urge a VAT cut.\n\nShould the chancellor prioritize a fuel duty freeze or a VAT cut?",
+      "hashtags": ["#FuelPrices", "#Logistics", "#UKEconomy", "#PublicFinance"]
+    },
+    "tiktok": {
+      "headline": "Diesel hits a record £2 a liter in the UK",
+      "post_text": "UK fuel prices are set to give the government a £4 billion tax windfall. Petrol is almost £1.75 a liter, and the chancellor is under pressure to help drivers. Haulage firms pay over £300 extra a week per vehicle. Fuel duty freeze or VAT cut: which would help more?",
+      "hashtags": ["#FuelPrices", "#Diesel", "#UKBudget", "#News"]
+    },
+    "youtube": {
+      "headline": "UK Fuel Prices: Diesel Hits Record £2 and Petrol Up 31%",
+      "post_text": "The UK government is set for a £4 billion tax windfall from soaring petrol and diesel prices, putting Chancellor John Healey under pressure to act.\n\nExtra VAT could reach £3.9 billion over the next 12 months compared with pre-war price levels, by one estimate that assumes drivers use as much fuel as in 2025-2026.\n\nThe RAC Foundation estimates about £1.27 billion in extra VAT has been collected since the war began on Feb. 28, although some is likely to be claimed back by businesses.\n\nPrime Minister Andy Burnham says every possible measure is being considered, but he signaled little room for giveaways.\n\nFuel duty is due to rise by 3 pence on Jan. 1 and by a further 2 pence on March 1.",
+      "hashtags": ["#FuelPrices", "#UKBudget", "#Diesel", "#UKEconomy"]
+    },
+    "facebook": {
+      "headline": "Fuel duty set to rise in January as UK petrol nears £1.75 a liter",
+      "post_text": "The UK government is set to reap a £4 billion tax windfall from higher petrol and diesel prices. Diesel has hit a record £2 a liter.\n\nFuel duty is also due to rise by 3 pence on Jan. 1 and by a further 2 pence on March 1. That adds about 6 pence a liter, or £3.30 more to fill a family car.\n\nShare this with a driver who's watching the budget.",
+      "hashtags": ["#FuelPrices", "#UKBudget"]
+    },
+    "telegram": {
+      "headline": "UK government set for £4bn fuel tax windfall, pressure grows for driver relief",
+      "post_text": "Higher fuel prices could bring the UK government £3.9 billion more VAT over 12 months, by one estimate, as Chancellor John Healey faces pressure to announce relief for drivers.\n\n• Petrol is almost £1.75 a liter, up 31% since the Middle East conflict began, per the RAC\n• Diesel is up 40% to a record £2 a liter\n• About £1.27 billion in extra VAT has been collected since Feb. 28, the RAC Foundation estimates\n• Haulage firms pay over £300 extra a week per vehicle, the Road Haulage Association says",
+      "hashtags": ["#FuelPrices", "#UKBudget", "#Diesel"]
+    }
+  }
+}
